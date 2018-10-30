@@ -1,0 +1,6 @@
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Logger.Service/bin/Debug/Logger.Service.dll
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Logger.Service/bin/Debug/Logger.Service.pdb
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Logger.Service/obj/Debug/Logger.Service.csprojAssemblyReference.cache
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Logger.Service/obj/Debug/Logger.Service.csproj.CoreCompileInputs.cache
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Logger.Service/obj/Debug/Logger.Service.dll
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Logger.Service/obj/Debug/Logger.Service.pdb

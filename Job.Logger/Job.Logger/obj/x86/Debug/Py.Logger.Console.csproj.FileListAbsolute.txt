@@ -1,0 +1,10 @@
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/bin/Debug/Py.Logger.exe.config
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/bin/Debug/Py.Logger.exe
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/bin/Debug/Py.Logger.pdb
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/bin/Debug/Logger.Service.dll
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/bin/Debug/Logger.Service.pdb
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/obj/x86/Debug/Py.Logger.Console.csprojAssemblyReference.cache
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/obj/x86/Debug/Py.Logger.Console.csproj.CoreCompileInputs.cache
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/obj/x86/Debug/Py.Logger.Console.csproj.CopyComplete
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/obj/x86/Debug/Py.Logger.exe
+/Users/rickyvargas/Documents/POSTULACIONES/log-message/Py.Logger/Py.Logger/obj/x86/Debug/Py.Logger.pdb

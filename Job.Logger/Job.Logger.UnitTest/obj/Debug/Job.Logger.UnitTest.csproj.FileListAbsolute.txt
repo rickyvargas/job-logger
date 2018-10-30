@@ -1,0 +1,12 @@
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/obj/Debug/Job.Logger.UnitTest.csprojAssemblyReference.cache
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/obj/Debug/Job.Logger.UnitTest.csproj.CoreCompileInputs.cache
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/bin/Debug/Logger.UnitTest.dll
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/bin/Debug/Logger.UnitTest.pdb
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/bin/Debug/Logger.Service.dll
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/bin/Debug/nunit.framework.dll
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/bin/Debug/Logger.Service.pdb
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/bin/Debug/nunit.framework.pdb
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/bin/Debug/nunit.framework.xml
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/obj/Debug/Job.Logger.UnitTest.csproj.CopyComplete
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/obj/Debug/Logger.UnitTest.dll
+/Users/rickyvargas/Documents/POSTULACIONES/BELATRIX/log-message/Py.Logger/Logger.UnitTest/obj/Debug/Logger.UnitTest.pdb

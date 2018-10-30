@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{732E3A8C-3BB9-43E9-A4C7-68DCC2652AEC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Job.Logger.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Py.Logger.console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Logger.Service/Entities/LoggerEntity.cs">
+    <Files>
+      <File FileName="Logger.Service/Entities/LoggerEntity.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Job.Logger" expanded="True">
+            <Node name="Job.Logger.Service" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="LoggerEntity.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
